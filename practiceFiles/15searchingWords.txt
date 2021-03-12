@@ -1,6 +1,7 @@
 15. Searching words: / (forward slash), ? (question mark), n, N, #, *
 ---------------
 
+
 We're almost done!
 
 To search the entire file of words, use:
@@ -15,7 +16,7 @@ To move to the next occurence of the word that your cursor is under, use:
 * - move to the next occurence
 # - move to the previous occurence
 
-Put your cursor over the move word, and hop over to the previously occuring command. 
+Put your cursor over the move word, and hop over to the previously occuring command.
 
 
 Review Questions:
@@ -41,4 +42,3 @@ Solution:
 !~!~!~!~!~!~!~!~!~!~!~!~!~!~!~!
 
 Remember to practice daily to improve!
-

@@ -1,15 +1,15 @@
-01. Navigating controls: h, j, k, l, ESC, [0-9]
+01. Navigating controls: h, j, k, l, esc, [0-9]
 ---------------
 
 Hello!
 
-Vim is a "modal editor," meaning it has different modes. 
+Vim is a "modal editor," meaning it has different modes.
 
-Vim opens in COMMAND mode. 
-If you ever find Vim in a different mode (or if it's acting wonky), 
-simply press ESC to re-activate COMMAND mode. 
+Vim opens in COMMAND mode.
+If you ever find Vim in a different mode (or if it's acting wonky),
+simply press ESC to re-activate COMMAND mode.
 
-Great! We'll start with basic navigation. 
+Great! We'll start with basic navigation.
 
 To move around in Vim:
 l - move right
@@ -47,5 +47,3 @@ Review Questions:
 
 Solutions:
 1) It's faster, lightweight and available on almost every computer.
-
-

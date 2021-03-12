@@ -2,7 +2,7 @@
 ---------------
 
 Deleting doesn't just delete keys, it copies it into the buffer (or the clipboard).
-Sound familiar? This is exactly how "cut" works. 
+Sound familiar? This is exactly how "cut" works.
 
 To "paste" this snippet, use the following:
 p - paste below cursor line
@@ -18,17 +18,17 @@ Now paste it here! ->
 
 Wow! What is this sorcery? Are you a wizard? Can you make this rabbit disappear too?
 
-(\__/) 
-(='.'=) 
+(\__/)
+(='.'=)
 (")_(")
 
 Don't forget to make it re-appear!
 Or the kids will be very upset...
 
-Great job! In the next tutorial we'll look at copying and pasting. 
+Great job! In the next tutorial we'll look at copying and pasting.
 
-Review Questions: 
-1) Delete every word above that starts with a vowel. 
+Review Questions:
+1) Delete every word above that starts with a vowel.
 2) How would you undo the last 5 words you just deleted?
 
 
